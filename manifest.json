@@ -1,0 +1,52 @@
+{
+    "name": "PWA - Aplikasi Informasi Sepakbola",
+    "short_name": "Aplikasi Sepakbola",
+    "description": "PWA - Submission 2 - Alfan Fauzy",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#7A9D96",
+    "theme_color": "#7A9D96",
+    "gcm_sender_id": "1033772747062",
+    "icons": [
+        {
+            "src": "/img/icon/icon-72x72.png",
+            "sizes": "72x30",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-96x96.png",
+            "sizes": "96x40",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-128x128.png",
+            "sizes": "128x53",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-144x144.png",
+            "sizes": "144x60",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-152x152.png",
+            "sizes": "152x63",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-192x192.png",
+            "sizes": "192x80",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-384x384.png",
+            "sizes": "384x160",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon/icon-512x512.png",
+            "sizes": "512x214",
+            "type": "image/png"
+        }
+    ]
+}
